@@ -1,6 +1,4 @@
 # Seminario-eng2
-Código do seminario sobre "brain class" da matéria engenharia de software 2
-
 
 **Brain Class**: 
 - Refere-se a classes que tendem a acumular uma quantidade excessivade inteligência, geralmente na forma de vários Brain Method.

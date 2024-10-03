@@ -8,4 +8,5 @@
 Expressão: (((A classe tem mais que 1 Brain Method) E LOC >= 197) OU ((A classe tem 1 Brain Method) E LOC >= 394 E WMC >= 94)) E (WMC >= 47 E TCC < 0.5) (LANZA; MARINESCU, 2006);
 
 - Weighted Method Count(Contagem de métodos ponderados) (WMC): A soma da complexidade estática de todos os métodos de uma classe. A métrica CYCLO é usada para quantificar a complexidade do método (LANZA; MARINESCU, 2006);
-- Lines of Code (LOC): Número de linhas de código de código de um módulo de software (que no caso desta dissertação vai incluir linhas em branco e comentários)(LANZA; MARINESCU, 2006);
+- Lines of Code(Linhas de código) (LOC): Número de linhas de código de código de um módulo de software (que no caso desta dissertação vai incluir linhas em branco e comentários)(LANZA; MARINESCU, 2006);
+- Tight Class Cohesion(Coesão de classe rígida) (TCC): Número relativo de métodos pares que acessam pelo menos um atributo em comum da classe (LANZA; MARINESCU, 2006);
